@@ -1,3 +1,4 @@
 # ai-test
 
-target_site: https://www.autodesk.com/
+target_site: [bing](https://www.bing.com/news)
+test_site_2: [autodesk](https://www.autodesk.com/)
