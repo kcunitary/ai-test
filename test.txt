@@ -1,1 +1,1 @@
-yaotest = [current timestamp]
+yaotest = abc333
