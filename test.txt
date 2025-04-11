@@ -1,1 +1,1 @@
-yaotest = abc333
+random_character
