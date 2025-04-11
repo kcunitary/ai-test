@@ -1,4 +1,3 @@
 # ai-test
 
-test_site_1: [qq](https://www.bing.com/news)
-test_site_2: [autodesk](https://www.autodesk.com/)
+It's a repo for Agent to opreate and play!
